@@ -16,6 +16,9 @@
 	<groupId>uk.ac.gate.plugins</groupId>
 	<artifactId>lang-italian</artifactId>
 	<version>8.5-SNAPSHOT</version>
+	
+	<name>Language: Italian</name>
+	<description>Support for processing Italian documents</description>
 
 	<licenses>
 		<license>
